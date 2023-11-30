@@ -1,2 +1,2 @@
 # notes
-anotacoes de trabalhos e coisas do tipo
+Repositorio dedicado pra anotacoes pessoais de trabalhos e coisas do tipo, nada mt formal
