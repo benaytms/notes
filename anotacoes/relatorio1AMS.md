@@ -1,13 +1,13 @@
 # lista requisitos
 ## requisitos
 
-1.   abrir e encerrar contas (FUNCIONARIO)
+1.   abrir e encerrar contas (CLIENTE -> FUNCIONARIO)
 
-2.   especificar tipo de conta (especial ou poupança)
+2.   especificar tipo de conta (CLIENTE -> especial ou poupança <- FUNCIONARIO)
 
-3.   depositar ou sacar dinheiro (CAIXA ATM)
+3.   depositar ou sacar dinheiro (CLIENTE -> CAIXA ATM)
 
-4.   emitir saldo ou extrato da conta (CAIXA ATM)
+4.   emitir saldo ou extrato da conta (CLIENTE -> CAIXA ATM)
 
 5.   encerrar conta (SALDO PRECISA ESTAR ZERADO)
 
