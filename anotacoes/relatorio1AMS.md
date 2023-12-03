@@ -11,6 +11,6 @@
 
 5.   encerrar conta (SALDO PRECISA ESTAR ZERADO)
 
-descricao trabalho: 
+descrição do trabalho: 
 Elaborar um relatório que deverá conter introdução, desenvolvimento, métodos, resultados e conclusão sobre o assunto desenvolvido
 em aula prática (Caso de Uso - UML).
